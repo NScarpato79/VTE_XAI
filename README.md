@@ -2,16 +2,7 @@
 
 ## Dataset
 
-The dataset is made up of **1039** examples. Each example is represented by a features vector. The information present in the dataset relates to the patient's clinical analyzes. The features are grouped by groups, each of which represents a category. 
-There are 7 groups:
-
-- Demografiche
-- Caratteristiche Cliniche
-- Terapia
-- Sintomatologia 
-- Caratteristiche molecolari
-- Biochimica Clinica 
-- Trigger
+VTE validation dataset, refer to Validation of a machine learning approach for venous thromboembolism risk prediction in oncology Desease Marker 2017
 
 ## Feature Engineering and NaN values handling
 
