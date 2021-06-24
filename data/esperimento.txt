@@ -1,0 +1,51 @@
+Evento TEV
+colonne cod. BIOB and TTE sono informazioni sull'esperimento non vanno incluse nel predittore,ma solo riportate nei risultati che sarann nella forma cod. BIOB | TTE |prediction| real value
+I Gruppi sono così composti:
+Gruppo1 Tumor
+	TUMOR TYPE colonna 3
+	STAGE colonna 16
+Gruppo Sex 
+	sex colonna 1
+Gruppo Age 
+	age colonna 2
+Gruppo Korana 
+	KS colonna 13
+Gruppo2 
+	BMI colonna4
+	ECOG colonna 17
+Gruppo3 
+	HB colonna6
+	PLT colonna5
+	WBC colonna7
+	RBC colonna24
+	HCT colonna25
+	NEU colonna26
+	LYMP colonna27
+	MPV colonna28
+	NLR colonna43
+	PLR colonna44
+Gruppo4
+	TEV prev colonna 20 (NON VA UTILIZZATO!! tranne che nel baseline experiment)
+Gruppo5
+	BILT colonna21
+	Crea colonna22
+	eGFR colonna23
+	BUN colonna29
+	ALT colonna33
+	AST colonna34
+	GGT colonna35
+Gruppo6
+	GLIC colonna30
+	INS colonna31
+	HBG colonna32
+Gruppo7
+	HDL colonna38
+	LDL colonna39
+	TRIG colonna36
+	CHOL colonna37
+Gruppo Drugs
+	BEVA colonna45
+	EPO colonna46
+	steroids colonna48
+	PLAT colonna49
+	GEM colonna56
