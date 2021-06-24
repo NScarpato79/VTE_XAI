@@ -13,7 +13,7 @@ For each **categorical column** we tranform each value in it's integer represent
 
 In order to create a features groups representation of our dataset for each group we created a vector that contained all features of that group. The vector that represents a single example is a vector of groups vectors.
 
-![example](https://user-images.githubusercontent.com/33979978/110512379-6ee12300-8105-11eb-85b7-7794dd3f2bb2.png)
+
 
 
 ## SVM
